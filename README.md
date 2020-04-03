@@ -1,5 +1,4 @@
 # 100-Days-of-ML
-<<<<<<< HEAD
 The aim is to comprehensively revise essential statistics, machine learning algorithms, state of art models and learn to develop end-to-end products using machine learning and deep learning 
 ### Day 1 (24-03-20) : Binary Classification
 - Studied Classification and various approaches to achieve enhanced results 
@@ -70,6 +69,3 @@ The aim is to comprehensively revise essential statistics, machine learning algo
 - Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%209/model.ipynb">Link</a>
 <br/>
 <img src="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%209/input.png"><img src="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%209/output.png">
-=======
-The aim is to revise deep learning, statistics, and learn cutting edge implementations of state of art models
->>>>>>> fd0372b85ffa49b570d057d4cdd42d547fad2228
