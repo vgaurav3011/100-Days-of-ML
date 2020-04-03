@@ -20,7 +20,7 @@ The aim is to comprehensively revise essential statistics, machine learning algo
 - Will be working on studying GANs in depth
 - Reference: <a href="https://blog.floydhub.com/gans-story-so-far/">Link</a>
 - Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%203/DCGAN.ipynb">Link</a> <br/>
-<img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/dcgan.gif"> <br/>
+<img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/images/dcgan.gif"> <br/>
 ### Day 4 (27-03-20) : Neural Style Transfer
 - Studied the concepts of convolution neural networks and their working process
 - Implemented a simple style transfer network using pretrained weights and VGG-16 
