@@ -68,9 +68,4 @@ The aim is to comprehensively revise essential statistics, machine learning algo
 - Implemented a UNet architecture after analysing the paper
 - Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%209/model.ipynb">Link</a>
 <br/>
-<img src="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%209/input.png"><img src="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%209/output.png">
-### Day 10 (02-04-20) : Music Generation using LSTM
-- Started the course on Sequence Models by Andrew NG
-- Studied about LSTMs and RNNs
-- Watched the MIT Deep Learning Lab Video on Music Generation
-- Implemented a music generator using LSTM and MIT DeepLab
+<img src="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%209/input.png"><img src="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%209/output.png"> <br/>
