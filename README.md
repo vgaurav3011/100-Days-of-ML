@@ -69,4 +69,8 @@ The aim is to comprehensively revise essential statistics, machine learning algo
 - Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%209/model.ipynb">Link</a>
 <br/>
 <img src="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%209/input.png"><img src="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%209/output.png"> <br/>
-### Day 10(02-04-20)
+<b>Day 10 (02-04-20) : RNN and LSTM</b><br/>
+- Studied RNN and LSTM
+- Started the Sequence Models Course by Andrew NG<br/>
+- Worked on implementing Music Generation by LSTM<br/>
+- Watched MIT Deep Learning Lab Video on LSTM<br/>
