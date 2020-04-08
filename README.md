@@ -74,3 +74,7 @@ The aim is to comprehensively revise essential statistics, machine learning algo
 - Started the Sequence Models Course by Andrew NG<br/>
 - Worked on implementing Music Generation by LSTM<br/>
 - Watched MIT Deep Learning Lab Video on LSTM<br/>
+- Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Music_Generator.ipynb">Link</a><br/>
+<b>Day 11 (03-04-20):</b><br/>
+
+
