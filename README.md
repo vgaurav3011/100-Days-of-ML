@@ -81,6 +81,9 @@ The aim is to comprehensively revise essential statistics, machine learning algo
 - Implemented a Simple Autoencoder on MNIST data using Tensorflow
 - Studied the official Keras blog on autoencoders <a href="https://blog.keras.io/building-autoencoders-in-keras.html">Link</a>
 - Studied about Sparse Autoencoders: <a href="https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html">Link</a>
+- Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2011/VAE.ipynb">Link</a><br/>
+<img src="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2011/download.png" width=800 height=500><br/>
+<img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2011/download%20(1).png" width=500 height=500><br/>
 ### Day 12 (04-04-20) : Variational Autoencoder
 - Studied the idea of introducing variations in the autoencoding architecture
 - Studied the concepts of VAE: <a href="https://wiseodd.github.io/techblog/2016/12/10/variational-autoencoder/">Link</a>
