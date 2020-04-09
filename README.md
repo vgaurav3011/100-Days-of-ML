@@ -97,7 +97,8 @@ The aim is to comprehensively revise essential statistics, machine learning algo
 ### Day 14 (06-04-20) : PyTorch Introduction and Building Models
 - Finished the course on Building PyTorch Deep Learning Models by Janana Ravi on Pluralsight
 - Studied the architectural framework of PyTorch
-- Implemented AutoGrad, Text Classification and Image Classification Models using PyTorch
+- Implemented AutoGrad, Text Classification and Image Classification Models using PyTorch<br/>
+<img src="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2013/certy.png"><br/>
 ### Day 15 (07-04-20) : Open Computer Vision: Image Kernels and Thresholding
 - Studied the basics of image kernels: <a href="https://setosa.io/ev/image-kernels/">Link</a>
 - Studied different types of image thresholding techniques
