@@ -102,7 +102,8 @@ The aim is to comprehensively revise essential statistics, machine learning algo
 ### Day 15 (07-04-20) : Open Computer Vision: Image Kernels and Thresholding
 - Studied the basics of image kernels: <a href="https://setosa.io/ev/image-kernels/">Link</a>
 - Studied different types of image thresholding techniques
-- Studied the watershed segmentation algorithm and its implementation in Open CV
+- Studied the watershed segmentation algorithm and its implementation in Open CV<br/>
+<img src="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2015/adaptive_thresholding.png"><br/>
 ### Day 16 (08-04-20) : Open Computer Vision: Image Filters and Edge Detection
 - Studied the basics of gradients and edge detection: <a href="https://medium.com/themlblog/image-operations-gradients-and-edge-detection-c4279049a3ad/">Link</a>
 - Studied the mathematical aspects of image filters especially Sobel Filters
