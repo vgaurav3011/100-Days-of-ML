@@ -1,4 +1,0 @@
-Flask
-flask_wtf
-sklearn
-numpy
