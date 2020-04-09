@@ -92,6 +92,8 @@ The aim is to comprehensively revise essential statistics, machine learning algo
 - Studied the basics of implementing neural networks in PyTorch
 - Studied the major differences between PyTorch and Tensorflow
 - Implemented a neural network for MNIST using PyTorch
+- Implemented a neural network for Fashion-MNIST using PyTorch <br/>
+<img src="https://pbs.twimg.com/media/EU_ol5iUEAIzK-q?format=png&name=360x360"><br/><img src="https://pbs.twimg.com/media/EU_ol6FUcAAzmCW?format=png&name=small"><img src="https://pbs.twimg.com/media/EU_ol6EUMAEMf0_?format=png&name=small"><br/>
 ### Day 14 (06-04-20) : PyTorch Introduction and Building Models
 - Finished the course on Building PyTorch Deep Learning Models by Janana Ravi on Pluralsight
 - Studied the architectural framework of PyTorch
