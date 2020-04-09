@@ -1,0 +1,81 @@
+<html>
+ <head>
+        {% if title %}
+        <title>{{ title }}'s Car Price Prediction</title>
+        {% else %}
+        <title>Welcome to Car Price Prediction</title>
+        {% endif %}
+        <link rel="stylesheet" type="text/css" href="/static/style.css">
+    </head>
+ <body>
+    <h1> Car Price Prediction based on Linear Regression</h1>
+    <p style="text-align:left;font-size:12; font-style:italic;font-family:Times">Get Original Dataset From <a href="https://www.kaggle.com/gunishj/carpricepred/downloads/carpricepred.zip/1">Here</a></p>
+    <h2>Enter your car details</h2>
+    <form action="" method="post">
+        {{ form.hidden_tag() }}
+        <p>
+            {{ form.car_age.label }}</br>
+            {{ form.car_age(size=32) }}</br>
+            {% for error in form.car_age.errors %}
+            <span style="color:red;">{{ error }}</span>
+            {% endfor %}
+        </p>
+        <p>
+            {{ form.car_doors.label }}</br>
+            {{ form.car_doors(size=32) }}</br>
+            {% for error in form.car_doors.errors %}
+            <span style="color:red;">{{ error }}</span>
+            {% endfor %}
+        </p>
+         <p>
+            {{ form.car_cc.label }}</br>
+            {{ form.car_cc(size=32) }}</br>
+            {% for error in form.car_cc.errors %}
+            <span style="color:red;">{{ error }}</span>
+            {% endfor %}
+        </p>
+        <p>
+            {{ form.car_horsepower.label }}</br>
+            {{ form.car_horsepower(size=32) }}</br>
+            {% for error in form.car_horsepower.errors %}
+            <span style="color:red;">{{ error }}</span>
+            {% endfor %}
+        </p>
+         <p>
+            {{ form.car_odometer.label }}</br>
+            {{ form.car_odometer(size=32) }}</br>
+            {% for error in form.car_odometer.errors %}
+            <span style="color:red;">{{ error }}</span>
+            {% endfor %}
+        </p>
+        <p>
+            {{ form.car_weight.label }}</br>
+            {{ form.car_weight(size=32) }}</br>
+            {% for error in form.car_weight.errors %}
+            <span style="color:red;">{{ error }}</span>
+            {% endfor %}
+        </p>
+         <p>
+            {{form.car_fuel.label}}  {{form.car_fuel}}
+            <!--{% for error in form.car_fuel.errors %}-->
+            <!--<span style="color:red;">{{ error }}</span>-->
+            <!--{% endfor %}-->
+        </p>
+         <p>
+            {{form.car_transmission.label}}  {{form.car_transmission}}
+            <!--{% for error in form.car_transmission.errors %}-->
+            <!--<span style="color:red;">{{ error }}</span>-->
+            <!--{% endfor %}-->
+        </p>
+        <p>
+            {{form.car_color.label}}  {{form.car_color}}
+            <!--{% for error in form.car_color.errors %}-->
+            <!--<span style="color:red;">{{ error }}</span>-->
+            <!--{% endfor %}-->
+        </p>
+        <p>
+            {{ form.predict() }}
+        </p>
+    </form>
+</body>
+</html>
