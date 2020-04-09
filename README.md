@@ -97,11 +97,11 @@ The aim is to comprehensively revise essential statistics, machine learning algo
 - Studied the basics of image kernels: <a href="https://setosa.io/ev/image-kernels/">Link</a>
 - Studied different types of image thresholding techniques
 - Studied the watershed segmentation algorithm and its implementation in Open CV
-### Day 16 (07-04-20) : Open Computer Vision: Image Filters and Edge Detection
+### Day 16 (08-04-20) : Open Computer Vision: Image Filters and Edge Detection
 - Studied the basics of gradients and edge detection: <a href="https://medium.com/themlblog/image-operations-gradients-and-edge-detection-c4279049a3ad/">Link</a>
 - Studied the mathematical aspects of image filters especially Sobel Filters
 - Studied the canny edge detection algorithm and its implementation in Open CV
-### Day 17 (08-04-20) : Linear Regression End-to-End Application
+### Day 17 (09-04-20) : Linear Regression End-to-End Application
 - Studied the interview based reasoning questions on Linear Regression
 - Implemented a regression model on the car price prediction
 - Constructed an end-to-end Flask Application for predicting Car Prices from the data
