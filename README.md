@@ -105,4 +105,11 @@ The aim is to comprehensively revise essential statistics, machine learning algo
 - Studied the interview based reasoning questions on Linear Regression
 - Implemented a regression model on the car price prediction
 - Constructed an end-to-end Flask Application for predicting Car Prices from the data
+- To run the app we have the following commands
+```console
+$ sudo docker-compose build
+```
+```console
+$ sudo docker-compose up
+```
 <img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/images/output_flask1.gif" width=800 height=500><br/>
