@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  web:
+    build: ./web
+    ports:
+      - "9090:9090"
