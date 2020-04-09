@@ -85,14 +85,23 @@ The aim is to comprehensively revise essential statistics, machine learning algo
 - Studied the idea of introducing variations in the autoencoding architecture
 - Studied the concepts of VAE: <a href="https://wiseodd.github.io/techblog/2016/12/10/variational-autoencoder/">Link</a>
 - Finished the Week 3 of the CNN Course by Andrew NG
-### Day 12 (04-04-20) : Open Computer Vision: Image Kernels and Thresholding
+### Day 12 (04-04-20) : Basics of PyTorch
+- Studied the basics of implementing neural networks in PyTorch
+- Studied the major differences between PyTorch and Tensorflow
+- Implemented a neural network for MNIST using PyTorch
+### Day 13 (05-04-20) : PyTorch Introduction and Building Models
+- Finished the course on Building PyTorch Deep Learning Models by Janana Ravi on Pluralsight
+- Studied the architectural framework of PyTorch
+- Implemented AutoGrad, Text Classification and Image Classification Models using PyTorch
+### Day 14 (06-04-20) : Open Computer Vision: Image Kernels and Thresholding
 - Studied the basics of image kernels: <a href="https://setosa.io/ev/image-kernels/">Link</a>
 - Studied different types of image thresholding techniques
 - Studied the watershed segmentation algorithm and its implementation in Open CV
-### Day 13 (05-04-20) : Open Computer Vision: Image Filters and Edge Detection
+### Day 15 (07-04-20) : Open Computer Vision: Image Filters and Edge Detection
 - Studied the basics of gradients and edge detection: <a href="https://medium.com/themlblog/image-operations-gradients-and-edge-detection-c4279049a3ad/">Link</a>
 - Studied the mathematical aspects of image filters especially Sobel Filters
 - Studied the canny edge detection algorithm and its implementation in Open CV
-
-
-
+### Day 16 (08-04-20) : Linear Regression End-to-End Application
+- Studied the interview based reasoning questions on Linear Regression
+- Implemented a regression model on the car price prediction
+- Constructed an end-to-end Flask Application for predicting Car Prices from the data
