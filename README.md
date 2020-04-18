@@ -129,4 +129,10 @@ $ sudo docker-compose up
 - Studied BioBERT
 - Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2018/A_Visual_Notebook_to_Using_BERT_for_the_First_Time.ipynb">Link</a> <br/>
 <img src="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2018/bert.png"> <br/>
-
+https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2019/plot.png
+### Day 19 (11-04-20) : Basic Data Visualisations
+- Learned implementation of histogram, bar grpahs, stacked graphs and pie charts
+- Implemented the probability distributions in seaborn and matplotlib
+- Completed the assignment exercise for visualisation given by the IITB course 
+- Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2019/Basic_Visualizations.ipynb">Link</a><br/>
+<img src="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2019/plot.png"> <br/>
