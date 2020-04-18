@@ -128,5 +128,5 @@ $ sudo docker-compose up
 - Worked on analysing DistilBERT
 - Studied BioBERT
 - Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2018/A_Visual_Notebook_to_Using_BERT_for_the_First_Time.ipynb">Link</a> <br/>
-<img src=""> <br/>
+<img src="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2018/bert.png"> <br/>
 
