@@ -136,3 +136,12 @@ https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2019/plot.png
 - Completed the assignment exercise for visualisation given by the IITB course 
 - Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2019/Basic_Visualizations.ipynb">Link</a><br/>
 <img src="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2019/plot.png"> <br/>
+### Day 20 (12-04-20) : Mathematics for Machine Learning
+- Started my own blog on Machine Learning and Programming
+- Revisited all the necessary mathematical concepts
+- Revised Linear Algebra
+- Revised Statistics
+- Revised Probability Distributions
+- Revised Multivariate Calculus
+- Link to the Blog: <a href="https://vgaurav3011.github.io/2020/04/15/first-maths-in-ml.html">Link</a> </br>
+<img src="https://www.whatissixsigma.net/wp-content/uploads/2014/03/Basic-Statistics-Descriptive-Statistics.png"> <br/>
