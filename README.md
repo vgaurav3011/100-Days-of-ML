@@ -122,3 +122,11 @@ $ sudo docker-compose build
 $ sudo docker-compose up
 ```
 <img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/images/output_flask1.gif" width=800 height=500><br/>
+### Day 18 (10-04-20) : Natural Languages using BERT
+- Studied the basics of Logistic Regression
+- Implemented a sentiment analysis classifier using BERT
+- Worked on analysing DistilBERT
+- Studied BioBERT
+- Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2018/A_Visual_Notebook_to_Using_BERT_for_the_First_Time.ipynb">Link</a> <br/>
+<img src=""> <br/>
+
