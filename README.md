@@ -188,3 +188,9 @@ Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%20
 - Completed a blog on outlier detection: <a href="https://vgaurav3011.github.io/2020/04/23/outlier-detection.html">Link</a><br/>
 <img src="https://raw.githubusercontent.com/vgaurav3011/vgaurav3011.github.io/master/images/EDA/1.jpg?token=AHIGNHWWNCGRIZLKQSHYAPC6VLTCK"><br/>
 <img src="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2027/blog.gif"><br/>
+### Day 28 (20-04-20) : Neural Network From Scratch
+- Learned to implement a neural network from scratch
+- Studied the mathematical aspects of forward and backward propagation
+- Tried to implement a neural network from scratch for gender classification <br/>
+<img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2028/loss.png"><br/>
+
