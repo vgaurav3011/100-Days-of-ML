@@ -151,3 +151,9 @@ https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2019/plot.png
 - Implemented a small program regarding outlier detection with visualisation
 - Studying more in-depth reasoning about outliers <br/>
 <img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2021/Figure_1.png"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2021/Figure_2.png"><br/>
+### Day 22 (14-04-20) : Concept of Probability and Probability Distributions
+- Started 7 Days of Statistics Challenge
+- Learned about probability concepts in-depth
+- Studied all probability distributions
+- Implemented basic programs on normal distribution, poisson distribution and binomal distribution <br/>
+<img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2022/prob.jpeg"><br/>
