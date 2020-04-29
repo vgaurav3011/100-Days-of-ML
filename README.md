@@ -163,3 +163,9 @@ https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2019/plot.png
 - Explored the dataset on predicting the sales of cardiofitness equipments as a real time case study
 - Visualised and studied feature extraction in machine learning <br/>
 <img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2023/index.png"><br/>
+### Day 24 (16-04-20) : Anomaly Detection
+- Studied the idea of anomaly detection
+- Studied SMOTE to overcome overfitting
+- Studied the problem of imbalanced classes
+- Implemented outlier detection on Big Market Dataset<br/>
+<img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2024/final.png"><br/>
