@@ -1,0 +1,134 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2019-05-26T05:09:10.629Z,23.2123,86.8925,10,4.7,mb,,99,6.208,0.66,us,us60003sb2,2019-06-22T10:15:08.897Z,"18km WSW of Bankura, India",earthquake,6.5,1.9,0.066,69,reviewed,us,us
+2019-02-12T01:32:27.310Z,14.3974,85.73,10,4.9,mb,,78,7.358,0.83,us,us2000jghn,2019-05-01T22:00:34.040Z,"Bay of Bengal",earthquake,5.4,1.6,0.068,68,reviewed,us,us
+2018-09-01T18:09:55.250Z,23.4903,82.446,10,4.7,mb,,78,9.928,0.97,us,us2000h6kg,2018-11-07T18:37:08.040Z,"28km NNW of Baikunthpur, India",earthquake,9.2,1.9,0.061,81,reviewed,us,us
+2018-08-28T13:03:27.670Z,22.6926,87.7938,10,4.5,mb,,93,4.685,0.6,us,us1000gj5k,2018-11-07T18:37:03.040Z,"8km ENE of Ghatal, India",earthquake,9.1,1.9,0.139,15,reviewed,us,us
+2014-05-21T16:21:54.350Z,18.2012,88.0376,47.23,6,mww,,38,5.59,0.63,us,usb000qy82,2015-01-28T16:02:10.607Z,"276km SE of Konarka, India",earthquake,,3.7,,,reviewed,us,us
+2013-08-06T18:36:30.500Z,23.3104,88.4902,35.88,4.5,mb,,112,3.802,0.76,us,usb000j2w5,2013-10-12T21:32:30.000Z,"7km NNE of Shantipur, India",earthquake,,8.6,0.383,,reviewed,us,us
+2012-06-19T20:14:05.720Z,23.647,70.252,28.6,5,mb,192,87.5,,1.01,us,usp000jmzk,2017-10-11T20:08:55.309Z,"Gujarat, India",earthquake,,4.2,,111,reviewed,us,us
+2011-10-20T17:18:34.170Z,21.211,70.533,10,5.1,mwc,89,72,,0.81,us,usp000j9m2,2017-04-26T18:12:41.102Z,"Gujarat, India",earthquake,,,,,reviewed,us,gcmt
+2009-12-12T11:51:25.780Z,17.134,73.773,10,4.8,mwc,117,73.1,,0.93,us,usp000h4zh,2017-04-26T18:09:48.994Z,"Maharashtra, India",earthquake,,,,,reviewed,us,gcmt
+2009-11-14T13:03:34.710Z,17.089,73.828,10,4.8,mwc,42,92.4,,1.12,us,usp000h41s,2017-04-26T18:09:44.863Z,"Maharashtra, India",earthquake,,,,,reviewed,us,gcmt
+2008-09-16T21:47:14.540Z,17.438,73.915,10,5,mb,116,41.5,,1.21,us,usp000gh63,2017-04-13T22:22:52.541Z,"Maharashtra, India",earthquake,,,,65,reviewed,us,us
+2008-07-29T19:10:59.640Z,17.644,74.166,45,4.5,mb,31,103.2,,1.9,us,usp000gddk,2017-04-13T22:22:42.225Z,"Maharashtra, India",earthquake,,0,,12,reviewed,us,us
+2008-03-09T11:10:41.030Z,23.33,70.592,10,4.5,mb,40,95.8,,1.23,us,usp000g11k,2017-04-26T18:07:56.581Z,"Gujarat, India",earthquake,,,,13,reviewed,us,us
+2007-11-24T10:57:46.980Z,16.878,73.735,10,4.8,mb,14,143.9,,1.13,us,usp000ft71,2017-04-13T22:21:43.693Z,"near the coast of Maharashtra, India",earthquake,,,,8,reviewed,us,us
+2007-11-06T09:38:05.780Z,21.181,70.724,10,5.1,mwc,90,85.6,,1.43,us,usp000fs1z,2017-04-26T18:07:18.776Z,"Gujarat, India",earthquake,,0,,,reviewed,us,gcmt
+2007-11-06T00:27:31.720Z,21.229,70.898,10,4.9,mb,35,89.5,,1.29,us,usp000fs18,2017-04-26T18:07:18.195Z,"Gujarat, India",earthquake,,,,17,reviewed,us,us
+2007-10-08T01:12:34.710Z,23.104,69.983,10,4.5,mb,33,98.6,,0.89,us,usp000fq37,2017-04-26T18:07:11.825Z,"Gujarat, India",earthquake,,,,14,reviewed,us,us
+2006-06-23T05:34:06.400Z,23.462,70.116,10,4.8,mwc,141,56.6,,0.97,us,usp000em1v,2017-04-26T18:06:00.688Z,"Gujarat, India",earthquake,,,,,reviewed,us,hrv
+2006-04-17T16:39:58.870Z,17.069,73.689,10,4.7,mb,50,92.9,,1,us,usp000eesr,2017-04-26T18:05:43.740Z,"Maharashtra, India",earthquake,,,,17,reviewed,us,us
+2006-04-10T22:05:43.060Z,23.467,70.074,20,4.9,mb,111,83.9,,1.04,us,usp000ee4h,2017-04-13T22:20:02.849Z,"Gujarat, India",earthquake,,0,,55,reviewed,us,us
+2006-04-06T17:59:16.440Z,23.322,70.477,10,5.5,mwb,255,27.7,,1.05,us,usp000eduw,2017-04-26T18:05:38.608Z,"Gujarat, India",earthquake,,,,,reviewed,us,us
+2005-08-30T08:53:17.460Z,17.067,73.773,10,4.7,mb,44,82.1,,0.92,us,usp000dyb2,2017-04-13T22:19:14.950Z,"Maharashtra, India",earthquake,,,,18,reviewed,us,us
+2005-06-16T22:38:58.770Z,10.264,69.7,10,4.5,mb,58,104,,0.8,us,usp000dt7j,2014-11-07T01:26:14.372Z,"Arabian Sea",earthquake,,,,29,reviewed,us,us
+2005-03-14T09:43:49.120Z,17.145,73.73,10,4.9,mwc,98,86.2,,0.96,us,usp000dj6d,2017-04-26T18:04:03.533Z,"Maharashtra, India",earthquake,,,,,reviewed,us,hrv
+2003-12-03T17:43:07.880Z,9.188,85.489,10,4.8,mb,65,71.5,,0.94,us,usp000ceeb,2014-11-07T01:20:40.657Z,"Bay of Bengal",earthquake,,,,32,reviewed,us,us
+2003-08-05T11:08:01.910Z,23.689,70.435,10,5,mwc,256,51,,0.95,us,usp000c467,2017-04-26T18:01:44.138Z,"Gujarat, India",earthquake,,,,,reviewed,us,hrv
+2003-02-11T19:27:14.670Z,23.386,70.218,10,4.5,mb,23,,,1.13,us,usp000bqg0,2017-04-13T22:16:14.223Z,"Gujarat, India",earthquake,,,,11,reviewed,us,us
+2002-08-09T21:00:55.890Z,23.409,70.306,10,4.6,mb,32,,,1.12,us,usp000b9kq,2017-04-26T18:00:27.870Z,"Gujarat, India",earthquake,,,,15,reviewed,us,us
+2002-03-30T06:17:46.640Z,23.483,70.345,10,4.5,mb,48,,,1.15,us,usp000b1bn,2017-04-13T22:15:17.404Z,"Gujarat, India",earthquake,,,,22,reviewed,us,us
+2002-01-09T23:52:41.930Z,23.557,70.203,10,4.8,mb,73,,,0.81,us,usp000aw4u,2017-04-13T22:14:59.470Z,"Gujarat, India",earthquake,,,,50,reviewed,us,us
+2001-11-24T02:42:39.650Z,23.615,70.414,10,4.6,mb,21,,,1.38,us,usp000atcx,2017-04-13T22:14:50.199Z,"Gujarat, India",earthquake,,,,9,reviewed,us,us
+2001-09-25T14:56:44.250Z,11.956,80.214,10,5.2,mwc,244,,,0.98,us,usp000apsa,2017-04-26T17:59:20.597Z,"near the coast of Tamil Nadu, India",earthquake,,,,,reviewed,us,hrv
+2001-09-21T02:40:37.710Z,23.468,70.075,10,4.5,mb,16,,,1.26,us,usp000aphw,2017-04-13T22:14:38.826Z,"Gujarat, India",earthquake,,,,2,reviewed,us,us
+2001-09-20T13:34:29.900Z,23.573,70.28,10,4.7,mb,37,,,0.9,us,usp000apgz,2017-04-13T22:14:38.344Z,"Gujarat, India",earthquake,,,,16,reviewed,us,us
+2001-06-30T20:19:48.490Z,23.365,70.06,10,4.5,mb,38,,,1.03,us,usp000ahry,2017-04-26T17:59:09.633Z,"Gujarat, India",earthquake,,,,14,reviewed,us,us
+2001-06-12T12:41:01.540Z,22.223,83.948,33,4.8,mb,67,,,1,us,usp000aggd,2017-04-26T17:59:04.933Z,"Chhattisgarh, India",earthquake,,,,38,reviewed,us,us
+2001-05-06T22:58:51.270Z,23.462,70.049,10,4.7,mb,18,,,0.86,us,usp000aehq,2017-04-13T22:14:15.575Z,"Gujarat, India",earthquake,,,,3,reviewed,us,us
+2001-05-06T07:42:32.070Z,23.406,70.092,10,4.7,mb,16,,,1.39,us,usp000aegr,2017-04-26T17:58:56.686Z,"Gujarat, India",earthquake,,,,4,reviewed,us,us
+2001-04-01T08:56:50.920Z,23.47,70.5,17.9,4.6,mb,26,,,1,us,usp000acc3,2017-04-26T17:58:49.660Z,"Gujarat, India",earthquake,,,,6,reviewed,us,us
+2001-03-19T20:06:48.330Z,23.393,70.105,10,4.9,ms,59,,,1.11,us,usp000abrb,2017-04-26T17:58:47.276Z,"Gujarat, India",earthquake,,,,26,reviewed,us,us
+2001-03-14T10:42:08.380Z,23.383,70.329,28.8,4.5,mb,19,,,1.21,us,usp000abcv,2017-04-13T22:14:06.884Z,"Gujarat, India",earthquake,,,,4,reviewed,us,us
+2001-03-04T07:54:23.150Z,23.019,70.484,10,4.8,mb,52,,,1.16,us,usp000aaw7,2017-04-13T22:14:06.378Z,"Gujarat, India",earthquake,,,,24,reviewed,us,us
+2001-03-01T00:53:16.060Z,23.236,70.276,10,4.5,mb,18,,,1.24,us,usp000aan5,2017-04-13T22:14:05.890Z,"Gujarat, India",earthquake,,,,3,reviewed,us,us
+2001-02-22T02:13:00.210Z,23.329,70.291,10,4.7,mb,66,,,0.96,us,usp000aa3c,2017-04-26T17:58:42.016Z,"Gujarat, India",earthquake,,,,36,reviewed,us,us
+2001-02-19T08:24:20.160Z,23.568,70.072,10,5.4,mwc,155,,,1.1,us,usp000a9xc,2017-04-26T17:58:40.797Z,"Gujarat, India",earthquake,,,,,reviewed,us,hrv
+2001-02-19T02:11:09.380Z,23.517,70.107,10,4.6,mb,56,,,1.12,us,usp000a9wv,2017-04-13T22:14:02.511Z,"Gujarat, India",earthquake,,,,25,reviewed,us,us
+2001-02-17T08:27:25.200Z,23.359,70.451,10,4.8,mb,67,,,1.05,us,usp000a9sm,2017-04-26T17:58:40.234Z,"Gujarat, India",earthquake,,,,33,reviewed,us,us
+2001-02-15T10:04:36.390Z,23.272,70.293,10,4.7,mb,67,,,0.97,us,usp000a9pb,2017-04-26T17:58:39.123Z,"Gujarat, India",earthquake,,,,33,reviewed,us,us
+2001-02-15T05:38:30.830Z,23.251,70.29,10,4.8,mb,7,,,0.66,us,usp000a9p2,2017-04-26T17:58:38.559Z,"Gujarat, India",earthquake,,,,1,reviewed,us,us
+2001-02-11T15:29:39.050Z,23.274,70.311,10,4.5,mb,13,,,1.42,us,usp000a9g5,2017-04-26T17:58:36.824Z,"Gujarat, India",earthquake,,,,2,reviewed,us,us
+2001-02-11T02:33:17.650Z,23.219,70.512,10,4.6,mb,52,,,1.2,us,usp000a9ev,2017-04-13T22:13:57.668Z,"Gujarat, India",earthquake,,,,24,reviewed,us,us
+2001-02-09T12:37:01.780Z,23.357,70.371,10,4.8,mb,14,,,1.3,us,usp000a9bc,2017-04-26T17:58:36.250Z,"Gujarat, India",earthquake,,,,1,reviewed,us,us
+2001-02-09T10:07:38.890Z,23.639,70.019,10,4.7,mb,40,,,1.12,us,usp000a9b5,2017-04-13T22:13:56.691Z,"Gujarat, India",earthquake,,,,12,reviewed,us,us
+2001-02-08T16:54:41.020Z,23.654,70.425,10,5.1,ms,62,,,1.19,us,usp000a99q,2017-04-26T17:58:35.685Z,"Gujarat, India",earthquake,,,,2,reviewed,us,us
+2001-02-05T02:59:36.100Z,23.515,70.048,10,4.7,mb,41,,,1.03,us,usp000a93c,2017-04-13T22:13:55.731Z,"Gujarat, India",earthquake,,,,10,reviewed,us,us
+2001-02-04T04:47:24.350Z,23.519,70.126,10,4.5,mb,24,,,1.04,us,usp000a914,2017-04-13T22:13:55.252Z,"Gujarat, India",earthquake,,,,5,reviewed,us,us
+2001-02-03T10:06:36.900Z,23.2,70.088,10,4.5,mb,24,,,1.06,us,usp000a8z5,2017-04-13T22:13:54.299Z,"Gujarat, India",earthquake,,,,5,reviewed,us,us
+2001-02-03T03:04:32.890Z,23.655,70.435,10,5.3,mb,250,,,1.02,us,usp000a8yc,2017-04-26T17:58:33.154Z,"Gujarat, India",earthquake,,,,117,reviewed,us,us
+2001-02-01T22:29:34.710Z,23.48,70.185,10,4.6,mb,32,,,1.23,us,usp000a8vm,2017-04-13T22:13:53.324Z,"Gujarat, India",earthquake,,,,11,reviewed,us,us
+2001-01-31T09:42:22.080Z,23.372,70.425,10,4.9,mb,83,,,0.93,us,usp000a8rr,2017-04-26T17:58:31.971Z,"Gujarat, India",earthquake,,,,45,reviewed,us,us
+2001-01-30T18:19:56.360Z,23.283,70.271,10,4.7,mb,49,,,1.12,us,usp000a8qk,2017-04-26T17:58:31.387Z,"Gujarat, India",earthquake,,,,23,reviewed,us,us
+2001-01-29T23:54:58.310Z,23.436,70.28,10,4.8,mb,53,,,1.34,us,usp000a8nx,2017-04-26T17:58:30.774Z,"Gujarat, India",earthquake,,,,23,reviewed,us,us
+2001-01-29T09:38:44.140Z,23.499,70.455,10,4.8,mb,46,,,0.98,us,usp000a8mq,2017-04-26T17:58:29.591Z,"Gujarat, India",earthquake,,,,23,reviewed,us,us
+2001-01-29T01:39:03.510Z,23.46,69.973,10,4.8,mb,63,,,0.9,us,usp000a8m5,2017-04-13T22:13:50.371Z,"Gujarat, India",earthquake,,,,34,reviewed,us,us
+2001-01-28T17:15:22.710Z,23.18,69.907,10,4.7,mb,56,,,1.25,us,usp000a8k3,2017-04-26T17:58:28.907Z,"Gujarat, India",earthquake,,,,35,reviewed,us,us
+2001-01-28T11:10:43.610Z,23.252,70.387,10,5.4,mwc,52,,,1.23,us,usp000a8je,2017-04-26T17:58:28.324Z,"Gujarat, India",earthquake,,,,,reviewed,us,hrv
+2001-01-28T01:02:10.700Z,23.507,70.517,10,5.8,mwc,363,,,1.27,us,usp000a8hm,2017-04-26T17:58:27.735Z,"Gujarat, India",earthquake,,,,,reviewed,us,hrv
+2001-01-27T11:24:21.440Z,23.273,70.45,10,4.6,mb,14,,,0.94,us,usp000a8gr,2017-04-13T22:13:48.436Z,"Gujarat, India",earthquake,,,,10,reviewed,us,us
+2001-01-27T04:36:08.410Z,23.655,70.001,10,4.8,mb,27,,,1.04,us,usp000a8g7,2017-04-13T22:13:47.955Z,"Gujarat, India",earthquake,,,,23,reviewed,us,us
+2001-01-27T03:50:01.530Z,23.472,70.232,10,4.7,mb,20,,,1.09,us,usp000a8g3,2017-04-26T17:58:27.149Z,"Gujarat, India",earthquake,,,,19,reviewed,us,us
+2001-01-26T18:19:44.030Z,23.544,70.406,10,4.7,mb,30,,,1.17,us,usp000a8fh,2017-04-26T17:58:26.020Z,"Gujarat, India",earthquake,,,,22,reviewed,us,us
+2001-01-26T15:10:57.900Z,23.238,70.185,10,4.8,mb,21,,,0.85,us,usp000a8f5,2017-04-26T17:58:25.449Z,"Gujarat, India",earthquake,,,,10,reviewed,us,us
+2001-01-26T09:08:22.260Z,23.248,70.192,10,4.8,mb,28,,,1.09,us,usp000a8ep,2017-04-26T17:58:24.741Z,"Gujarat, India",earthquake,,,,24,reviewed,us,us
+2001-01-26T08:42:25.120Z,23.223,71.165,10,4.7,mb,9,,,1.81,us,usp000a8em,2017-04-13T22:13:45.439Z,"Gujarat, India",earthquake,,,,5,reviewed,us,us
+2001-01-26T08:03:16.410Z,23.478,70.152,10,4.6,mb,13,,,1.36,us,usp000a8eh,2017-04-13T22:13:44.927Z,"Gujarat, India",earthquake,,,,9,reviewed,us,us
+2001-01-26T07:48:54.570Z,23.35,70.612,10,4.7,mb,7,,,1.51,us,usp000a8ed,2017-04-26T17:58:24.101Z,"Gujarat, India",earthquake,,,,6,reviewed,us,us
+2001-01-26T07:32:28.740Z,23.316,69.981,10,5.5,ms,109,,,1.07,us,usp000a8ec,2017-04-26T17:58:23.469Z,"Gujarat, India",earthquake,,,,73,reviewed,us,us
+2001-01-26T06:04:51.010Z,23.479,70.221,10,4.9,mb,44,,,1.28,us,usp000a8e8,2017-04-13T22:13:43.447Z,"Gujarat, India",earthquake,,,,32,reviewed,us,us
+2001-01-26T05:59:06.830Z,23.363,70.391,10,4.8,mb,28,,,1.36,us,usp000a8e7,2017-04-26T17:58:22.829Z,"Gujarat, India",earthquake,,,,23,reviewed,us,us
+2001-01-26T04:48:14.250Z,23.249,70.348,10,5.1,mb,48,,,1.21,us,usp000a8e2,2017-04-26T17:58:22.253Z,"Gujarat, India",earthquake,,,,35,reviewed,us,us
+2001-01-26T04:23:41.970Z,23.272,69.964,10,5.2,mb,83,,,1.21,us,usp000a8dz,2017-04-26T17:58:21.665Z,"Gujarat, India",earthquake,,,,58,reviewed,us,us
+2001-01-26T03:58:59.250Z,23.262,69.967,10,4.9,mb,44,,,0.83,us,usp000a8dy,2017-04-26T17:58:21.088Z,"Gujarat, India",earthquake,,,,36,reviewed,us,us
+2001-01-26T03:33:29.170Z,23.245,69.836,10,5.3,mb,59,,,0.9,us,usp000a8du,2017-04-26T17:58:20.501Z,"Gujarat, India",earthquake,,,,41,reviewed,us,us
+2001-01-26T03:16:40.500Z,23.419,70.232,16,7.7,mwc,472,,,1.25,us,usp000a8ds,2018-10-17T19:39:08.123Z,"Gujarat, India",earthquake,,,,,reviewed,us,hrv
+2000-10-16T22:33:09.530Z,23.28,80.3,33,4.7,mb,39,,,0.84,us,usp000a1xv,2017-04-13T22:13:19.008Z,"Madhya Pradesh, India",earthquake,,,,15,reviewed,us,us
+2000-10-10T06:11:32.700Z,23.08,82.728,33,4.5,mb,16,,,1.01,us,usp000a1j4,2017-04-13T22:13:18.017Z,"Madhya Pradesh-Chhattisgarh border region, India",earthquake,,,,1,reviewed,us,us
+2000-09-05T00:32:42.900Z,17.367,73.849,10,5.2,mwc,250,,,1.3,us,usp0009zr1,2017-04-26T17:57:44.052Z,"Maharashtra, India",earthquake,,,,,reviewed,us,hrv
+2000-08-13T13:28:22.890Z,21.458,71.123,14.3,4.7,mb,67,,,1.34,us,usp0009ycx,2017-04-26T17:57:37.705Z,"Gujarat, India",earthquake,,,,34,reviewed,us,us
+2000-04-06T22:30:10.410Z,17.147,73.637,10,4.9,mb,,,,1.11,us,usp0009qxd,2017-04-26T17:56:58.587Z,"Maharashtra, India",earthquake,,,,43,reviewed,us,us
+2000-03-12T18:03:56.270Z,17.099,73.672,33,5,mwc,,,,1.08,us,usp0009pmc,2017-04-13T22:12:36.617Z,"Maharashtra, India",earthquake,,,,,reviewed,us,hrv
+1998-02-11T01:08:49.250Z,17.16,73.795,33,4.5,mb,,,,1.17,us,usp0008ftb,2017-04-13T22:10:24.164Z,"Maharashtra, India",earthquake,,,,3,reviewed,us,us
+1997-05-21T22:51:28.730Z,23.083,80.041,36,5.8,mwc,,,,1,us,usp00082nd,2018-01-18T17:16:51.810Z,"Madhya Pradesh, India",earthquake,,,,,reviewed,us,hrv
+1996-09-24T03:28:01.860Z,23.342,88.586,36.4,4.6,mb,,,,1.54,us,usp0007qd8,2017-04-13T22:09:00.776Z,"India-Bangladesh border region",earthquake,,,,3,reviewed,us,us
+1996-07-27T08:16:46.880Z,18.208,87.433,33,4.7,mb,,,,1.2,us,usp0007mp1,2014-11-07T01:00:50.557Z,"Bay of Bengal",earthquake,,,,18,reviewed,us,us
+1995-12-09T10:04:44.100Z,15.445,88.431,10,4.8,mb,,,,1,us,usp00078nv,2014-11-07T00:59:24.445Z,"Bay of Bengal",earthquake,,,,40,reviewed,us,us
+1995-06-21T18:35:41.230Z,21.78,85.327,33,4.7,mb,,,,1,us,usp0006zgy,2017-04-13T22:07:45.351Z,"Orissa, India",earthquake,,,,24,reviewed,us,us
+1995-05-24T13:46:45.280Z,16.517,79.679,33,4.6,mb,,,,1.2,us,usp0006xyg,2017-04-13T22:07:41.383Z,"Andhra Pradesh, India",earthquake,,,,3,reviewed,us,us
+1995-03-27T07:52:10.600Z,21.671,84.565,10,4.6,mb,,,,0.9,us,usp0006utd,2017-04-26T17:50:09.536Z,"Orissa, India",earthquake,,,,15,reviewed,us,us
+1995-03-13T03:09:42.550Z,17.524,74.123,54.8,4.5,mb,,,,1.2,us,usp0006u4d,2017-04-13T22:07:25.017Z,"Maharashtra, India",earthquake,,15.5,,13,reviewed,us,us
+1995-03-12T08:22:54.690Z,17.644,73.772,10,4.7,mb,,,,0.9,us,usp0006u36,2017-04-13T22:07:24.529Z,"Maharashtra, India",earthquake,,,,26,reviewed,us,us
+1994-09-28T16:46:06.410Z,23.337,88.547,33,4.6,mb,,,,1.3,us,usp0006k57,2017-04-13T22:07:01.127Z,"India-Bangladesh border region",earthquake,,,,2,reviewed,us,us
+1994-02-01T09:30:55.180Z,17.228,73.523,10,5,mb,,,,1.2,us,usp00067up,2017-04-26T17:48:37.502Z,"Maharashtra, India",earthquake,,,,57,reviewed,us,us
+1993-12-08T01:42:18.450Z,17.074,73.634,25,5.1,mw,,,,1.1,us,usp00064uk,2017-04-26T17:48:25.003Z,"Maharashtra, India",earthquake,,,,,reviewed,us,hrv
+1993-11-12T13:27:28.130Z,18.12,76.533,10,4.6,mb,,,,0.8,us,usp00063kt,2017-04-26T17:48:21.853Z,"Maharashtra, India",earthquake,,,,19,reviewed,us,us
+1993-10-29T23:45:07.340Z,17.369,77.468,10,5,mb,,,,1.5,us,usp00062wu,2017-04-26T17:48:19.562Z,"Karnataka-Andhra Pradesh border region, India",earthquake,,,,10,reviewed,us,us
+1993-10-08T20:45:08.980Z,17.934,76.396,33,4.7,mb,,,,0.7,us,usp00061ph,2017-04-13T22:05:53.417Z,"Maharashtra-Karnataka border region, India",earthquake,,,,19,reviewed,us,us
+1993-09-30T02:16:56.300Z,18.159,76.658,10,4.5,mb,,,,1.3,us,usp000618u,2017-04-26T17:48:12.280Z,"Maharashtra, India",earthquake,,,,5,reviewed,us,us
+1993-09-30T00:53:12.950Z,18.09,76.519,10,4.6,mb,,,,1.1,us,usp000618n,2017-04-26T17:48:11.714Z,"Maharashtra, India",earthquake,,,,13,reviewed,us,us
+1993-09-29T23:10:57.480Z,18.092,76.441,10,5,mb,,,,1.1,us,usp000618g,2017-04-26T17:48:11.151Z,"Maharashtra, India",earthquake,,,,28,reviewed,us,us
+1993-09-29T22:25:48.620Z,18.066,76.451,6.8,6.2,mwb,,,,1,us,usp000618c,2018-01-18T16:25:00.817Z,"Maharashtra, India",earthquake,,,,,reviewed,us,us
+1993-09-03T23:01:37.090Z,17.126,73.736,35.3,4.7,mb,,,,1.2,us,usp0005zq7,2017-04-13T22:05:46.141Z,"Maharashtra, India",earthquake,,10,,26,reviewed,us,us
+1993-08-28T04:26:23.910Z,17.173,73.672,5,4.9,mb,,,,1,us,usp0005zc7,2017-04-13T22:05:44.150Z,"Maharashtra, India",earthquake,,,,51,reviewed,us,us
+1993-08-24T17:47:30.490Z,20.641,71.365,24.8,5,mb,,,,1.1,us,usp0005z4v,2017-04-26T17:48:03.395Z,"near the coast of Gujarat, India",earthquake,,,,62,reviewed,us,us
+1993-05-16T09:05:58.650Z,23.101,86.982,33,4.6,mb,,,,1.5,us,usp0005sw0,2017-04-13T22:05:28.224Z,"Jharkhand-West Bengal border region, India",earthquake,,,,7,reviewed,us,us
+1992-12-08T23:22:04.560Z,17.791,86.478,33,4.5,mb,,,,0.9,us,usp0005j01,2014-11-07T00:52:01.384Z,"Bay of Bengal",earthquake,,,,2,reviewed,us,us
+1992-01-11T06:16:55.960Z,9.311,86.964,21.8,5.7,mw,,,,1,us,usp00051nu,2016-11-09T21:38:53.341Z,"Bay of Bengal",earthquake,,,,,reviewed,us,hrv
+1991-01-20T19:44:58.890Z,23.399,69.708,33,4.9,mb,,,,1.4,us,usp0004kyn,2017-04-13T22:03:09.702Z,"Gujarat, India",earthquake,,,,5,reviewed,us,us
+1987-12-03T18:15:50.600Z,15.525,80.246,33,4.6,mb,,,,0.9,us,usp0003ax6,2017-04-13T21:59:50.774Z,"near the coast of Andhra Pradesh, India",earthquake,,,,1,reviewed,us,us
+1987-04-18T16:59:48.520Z,22.346,79.259,33,4.9,mb,,,,0.9,us,usp0003492,2017-04-13T21:59:18.438Z,"Madhya Pradesh, India",earthquake,,,,26,reviewed,us,us
+1986-01-13T22:58:24.650Z,14.175,88.707,10,4.9,mb,,,,1,us,usp0002q18,2014-11-07T00:37:47.212Z,"Bay of Bengal",earthquake,,,,7,reviewed,us,us
+1985-07-01T02:23:52.150Z,18.367,87.188,10,5.5,mw,,,,1,us,usp0002ga5,2016-11-09T22:53:08.860Z,"Bay of Bengal",earthquake,,,,,reviewed,us,hrv
+1984-11-14T11:58:18.300Z,17.127,73.817,10,4.6,mb,,,,0.8,us,usp000291y,2017-04-13T21:56:56.866Z,"Maharashtra, India",earthquake,,,,8,reviewed,us,us
+1984-04-14T19:41:18.400Z,16.334,87.63,33,5,mb,,,,1.5,us,usp00023jn,2014-11-07T00:34:45.938Z,"Bay of Bengal",earthquake,,,,7,reviewed,us,us
+1983-09-14T21:53:41.470Z,19.694,73.76,33,4.5,mb,,,,1.4,us,usp0001ych,2017-04-13T21:55:50.711Z,"Maharashtra, India",earthquake,,,,4,reviewed,us,us
+1982-07-18T15:46:17.240Z,23.339,70.611,33,4.8,mb,,,,1.1,us,usp0001ng5,2017-04-13T21:54:44.390Z,"Gujarat, India",earthquake,,,,22,reviewed,us,us
+1982-04-08T02:41:17.610Z,18.519,86.276,24,5.5,mb,,,,0.9,us,usp0001kk9,2016-11-09T22:15:22.815Z,"Bay of Bengal",earthquake,,,,59,reviewed,us,us
+1981-04-12T10:18:33.580Z,8.073,85.458,33,5.2,ms,,,,0.8,us,usp0001d3v,2016-11-09T22:16:59.121Z,"Bay of Bengal",earthquake,,,,6,reviewed,us,us
+1980-10-04T16:37:12.700Z,17.022,73.863,33,4.5,mb,,,,,us,usp0001a30,2017-04-13T21:53:22.809Z,"Maharashtra, India",earthquake,,,,,reviewed,us,us
+1980-09-20T10:45:32.000Z,17.312,73.584,33,5.3,mb,,,,,us,usp00019w4,2017-04-13T21:53:20.324Z,"Maharashtra, India",earthquake,,,,,reviewed,us,us
+1980-09-20T07:28:57.700Z,17.158,73.797,33,4.9,mb,,,,,us,usp00019w2,2017-04-13T21:53:19.847Z,"Maharashtra, India",earthquake,,,,,reviewed,us,us
+1980-09-02T16:39:14.000Z,17.179,73.707,33,5.5,ms,,,,,us,usp00019np,2017-04-13T21:53:18.793Z,"Maharashtra, India",earthquake,,,,,reviewed,us,us
+1980-03-30T13:31:53.000Z,17.164,81.967,33,4.5,mb,,,,,us,usp00016bv,2017-04-13T21:52:56.244Z,"Andhra Pradesh, India",earthquake,,,,,reviewed,us,us
+1976-06-23T15:38:39.400Z,21.415,88.79,23,5.3,mb,,,,,us,usp0000h0v,2017-04-13T21:49:40.005Z,"near the coast of West Bengal, India",earthquake,,,,,reviewed,us,us
