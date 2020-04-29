@@ -145,3 +145,9 @@ https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2019/plot.png
 - Revised Multivariate Calculus
 - Link to the Blog: <a href="https://vgaurav3011.github.io/2020/04/15/first-maths-in-ml.html">Link</a> </br>
 <img src="https://www.whatissixsigma.net/wp-content/uploads/2014/03/Basic-Statistics-Descriptive-Statistics.png"> <br/>
+### Day 21 (13-04-20) : Outlier Detection
+- Learned about the concepts of Outliers
+- Revisited all the necessary mathematical concepts behind outlier detection
+- Implemented a small program regarding outlier detection with visualisation
+- Studying more in-depth reasoning about outliers <br/>
+<img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2021/Figure_1.png"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2021/Figure_2.png"><br/>
