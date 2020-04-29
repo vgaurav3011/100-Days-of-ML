@@ -178,4 +178,5 @@ https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2019/plot.png
 ### Day 26 (18-04-20) : Credit Card Fraud Detection-II
 - Implemented Autoencoder for credit card fraud detection
 - Studied the difference in implementation of autoencoder for imbalanced classes <br/>
+<img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2026/auto.png"><br/>
 Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2026/CreditCardFraud.ipynb">Link</a>
