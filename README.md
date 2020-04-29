@@ -169,9 +169,13 @@ https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2019/plot.png
 - Studied the problem of imbalanced classes
 - Implemented outlier detection on Big Market Dataset<br/>
 <img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2024/final.png"><br/>
-### Day 24 (17-04-20) : Credit Card Fraud Detection
+### Day 25 (17-04-20) : Credit Card Fraud Detection-I
 - Implemented machine learning models to handle imbalanced class problems 
 - Implemented a basic network to detect outliers in credit card fraud detection dataset
 - Studied PyOD Library by CMU
 - Implemented PyOD on Credit Card Fraud Detection<br/>
 <img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2025/Figure_3.png"><br/>
+### Day 26 (18-04-20) : Credit Card Fraud Detection-II
+- Implemented Autoencoder for credit card fraud detection
+- Studied the difference in implementation of autoencoder for imbalanced classes <br/>
+Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2026/CreditCardFraud.ipynb">Link</a>
