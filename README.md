@@ -193,4 +193,8 @@ Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%20
 - Studied the mathematical aspects of forward and backward propagation
 - Tried to implement a neural network from scratch for gender classification <br/>
 <img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2028/loss.png"><br/>
+### Day 29 (21-04-20) : Decision Trees
+- Studied the concept of decision tree classification
+- Studied the CART, C4.5 and ID3 algorithms
+- Solved Mathematics behind Gini Index, Information Gain, and Entropy
 
