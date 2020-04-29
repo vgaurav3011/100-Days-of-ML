@@ -157,3 +157,9 @@ https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2019/plot.png
 - Studied all probability distributions
 - Implemented basic programs on normal distribution, poisson distribution and binomal distribution <br/>
 <img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2022/prob.jpeg"><br/>
+### Day 23 (15-04-20) : Descriptive Statistics
+- Completed the course on Descriptive Statistics for Data Scientists by Dr Abhinanda Sarkar
+- Finished Visualisation techniques
+- Explored the dataset on predicting the sales of cardiofitness equipments as a real time case study
+- Visualised and studied feature extraction in machine learning <br/>
+<img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2023/index.png"><br/>
