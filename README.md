@@ -203,3 +203,8 @@ Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%20
 - Studied the concept of decision boundary
 - Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2030/ML_ASST_II.ipynb">Link</a><br/>
 <img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2030/final.png"><br/>
+### Day 31 (23-04-20) : Hypothesis Testing
+- Worked on Hypothesis Testing in Statistics
+- Studied the concepts of ANOVA, Chi-Square Distribution and Test of Proportions and Variance
+- Understood One-Tailed and Two-Tailed Testing<br/>
+<img src="https://miro.medium.com/max/862/1*VXxdieFiYCgR6v7nUaq01g.jpeg"><br/>
