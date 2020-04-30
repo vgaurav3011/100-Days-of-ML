@@ -197,4 +197,9 @@ Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%20
 - Studied the concept of decision tree classification
 - Studied the CART, C4.5 and ID3 algorithms
 - Solved Mathematics behind Gini Index, Information Gain, and Entropy
-
+### Day 30 (22-04-20) : Basic Classification Revised
+- Studied the concept of binary classification
+- Worked with revising multiple classifiers
+- Studied the concept of decision boundary
+- Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2030/ML_ASST_II.ipynb">Link</a><br/>
+<img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2030/final.png"><br/>
