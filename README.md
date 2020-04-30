@@ -208,3 +208,9 @@ Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%20
 - Studied the concepts of ANOVA, Chi-Square Distribution and Test of Proportions and Variance
 - Understood One-Tailed and Two-Tailed Testing<br/>
 <img src="https://miro.medium.com/max/862/1*VXxdieFiYCgR6v7nUaq01g.jpeg"><br/>
+### Day 32 (24-04-20) : Statistics Final Project
+- Finished the course on Statistics for Machine Learning by Dr. Abhinanda Sarkar of Great Learning Academy
+- Completed the capstone project on predicting medical insurance claims for smokers and non-smokers
+- Studied the in-depth implementation of statistics on real life use case
+- Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2032/Statistics_Complete.ipynb">Link</a><br/>
+<img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2032/index.png"><br/>
