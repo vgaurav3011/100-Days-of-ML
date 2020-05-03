@@ -1,29 +1,33 @@
-<html>
-
-
 # 100-Days-of-ML
+
 The aim is to comprehensively revise essential statistics, machine learning algorithms, state of art models and learn to develop end-to-end products using machine learning and deep learning 
+
 ### Day 1 (24-03-20) : Binary Classification
 - Studied Classification and various approaches to achieve enhanced results 
 - Implemented a basic network for Binary Classification using Tensorflow
 - Learnt to compress Tensorflow Models to TfLite Model for Binary Classification on Dogs vs Cats Dataset
 - Worked on developing an end-to-end Flutter Application which can perform Cats vs Dogs Classification with TfLite as backend
 - Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%201/catsvsdogs.ipynb">Link</a> <br/>
-<img src="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%201/cat%20vs%20dog%20app%20flutter/cat.jpeg" height=400>                     <img src="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%201/cat%20vs%20dog%20app%20flutter/dog.jpeg" height=400 style="padding:10px;"> <br/>
+<div style="text-align:center"><img src="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%201/cat%20vs%20dog%20app%20flutter/cat.jpeg" width="250" height="700"></div>
+ <div style="text-align:center"><img src="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%201/cat%20vs%20dog%20app%20flutter/dog.jpeg" width="250" height="700"></div>
+
 ### Day 2 (25-03-20) : Regularization
 - Worked on learning different techniques to handle overfitting of a model
 - Studied L1, L2 regularization and dropout regularization from Andrew NG deeplearning.ai course
 - Completed the assignment on regularization in Week 1 of the course
 - Studied visual intuition of regularization: <a href="https://towardsdatascience.com/a-visual-intuition-for-regularization-in-deep-learning-fe904987abbb">Link</a><br/>
 - Studied Tensorflow implementation of Dropout from Lei Mao's Blog: <a href="https://leimao.github.io/blog/Dropout-Explained/">Link</a>
-- Notebook Link: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%202/Regularization.ipynb">Click Here</a><br/>
+- Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%202/Regularization.ipynb">Link</a><br/>
+
 ### Day 3 (26-03-20) : Generative Adversarial Networks
 - Studied basics of Generative Adversarial Networks (GANs) and their applications
 - Worked on implementing a simple DCGAN to reconstruct MNIST images
 - Will be working on studying GANs in depth
 - Reference: <a href="https://blog.floydhub.com/gans-story-so-far/">Link</a>
 - Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%203/DCGAN.ipynb">Link</a> <br/>
-<img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/images/dcgan.gif"> <br/>
+
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/images/dcgan.gif"></div><br/>
+
 ### Day 4 (27-03-20) : Neural Style Transfer
 - Studied the concepts of convolution neural networks and their working process
 - Implemented a simple style transfer network using pretrained weights and VGG-16 
@@ -217,4 +221,3 @@ Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%20
 - Studied the in-depth implementation of statistics on real life use case
 - Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2032/Statistics_Complete.ipynb">Link</a><br/>
 <img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2032/index.png"><br/>
-</html>
