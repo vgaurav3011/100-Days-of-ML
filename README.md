@@ -196,7 +196,8 @@ $ sudo docker-compose up
 - Finished Visualisation techniques
 - Explored the dataset on predicting the sales of cardiofitness equipments as a real time case study
 - Visualised and studied feature extraction in machine learning 
-- Models: <a href="https://github.com/vgaurav3011/100-Days-of-ML/tree/master/Day%2023"> <br/>
+- Models: <a href="https://github.com/vgaurav3011/100-Days-of-ML/tree/master/Day%2023"></a><br/>
+
 <div style="text-align=center"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2023/index.png"></div><br/>
 
 ### Day 24 (16-04-20) : Anomaly Detection
