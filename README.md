@@ -82,7 +82,7 @@ The aim is to comprehensively revise essential statistics, machine learning algo
 
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%209/input.png"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%209/output.png"></div><br/></div><br/>
 
- ### Day 10 (02-04-20) : Basics of RNN and LSTM
+### Day 10 (02-04-20) : Basics of RNN and LSTM
 - Studied the idea of Gated Recurrent Units (GRU)
 - Studied RNN and LSTM
 - Started the Sequence Models Course by Andrew NG<br/>
