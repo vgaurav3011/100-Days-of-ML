@@ -230,7 +230,7 @@ $ sudo docker-compose up
 - Implemented five algorithms under PyOD
 - Completed a blog on outlier detection: <a href="https://vgaurav3011.github.io/2020/04/23/outlier-detection.html">Link</a><br/>
 <div style="text-align=center"><img src="https://raw.githubusercontent.com/vgaurav3011/vgaurav3011.github.io/master/images/EDA/1.jpg?token=AHIGNHWWNCGRIZLKQSHYAPC6VLTCK"></div><br/>
-<div style="text-align=center"><img src="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2027/blog.gif"></div><br/>
+<div style="text-align=center"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2027/blog.gif"></div><br/>
 
 ### Day 28 (20-04-20) : Neural Network From Scratch
 - Learned to implement a neural network from scratch
