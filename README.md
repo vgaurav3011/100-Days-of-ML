@@ -113,14 +113,15 @@ The aim is to comprehensively revise essential statistics, machine learning algo
 - Implemented a neural network for Fashion-MNIST using PyTorch 
 - Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2013/Fashion-MNIST.ipynb">Link</a><br/>
 <div style="text-align=center"><img src="https://pbs.twimg.com/media/EU_ol5iUEAIzK-q?format=png&name=360x360"><br/><img src="https://pbs.twimg.com/media/EU_ol6FUcAAzmCW?format=png&name=small"></div>
-<div style="text-align=center"><img src="https://pbs.twimg.com/media/EU_ol6EUMAEMf0_?format=png&name=small"></div><br/>
+<div style="text-align=center"><img src="https://pbs.twimg.com/media/EU_ol6EUMAEMf0_?format=png&name=small"></div>
+<br/>
 
-### Day 14 (06-04-20) : PyTorch Introduction and Building Models
+### Day 14 (06-04-20) : Building Models in PyTorch
 - Finished the course on Building PyTorch Deep Learning Models by Janana Ravi on Pluralsight
 - Studied the architectural framework of PyTorch
 - Implemented AutoGrad, Text Classification and Image Classification Models using PyTorch
 - Models: <a href="https://github.com/vgaurav3011/100-Days-of-ML/tree/master/Day%2014">Link</a><br/>
-<div style="text-align=center"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2013/certy.png"><br/>
+<div style="text-align=center"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2013/certy.png"></div><br/>
 
 ### Day 15 (07-04-20) : Open Computer Vision: Image Kernels and Thresholding
 - Studied the basics of image kernels: <a href="https://setosa.io/ev/image-kernels/">Link</a>
