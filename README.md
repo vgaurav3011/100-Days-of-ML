@@ -9,7 +9,7 @@ The aim is to comprehensively revise essential statistics, machine learning algo
 - Worked on developing an end-to-end Flutter Application which can perform Cats vs Dogs Classification with TfLite as backend
 - Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%201/catsvsdogs.ipynb">Link</a> <br/>
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%201/cat%20vs%20dog%20app%20flutter/cat.jpeg" width="250" height="700"></div>
- <div style="text-align:center"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%201/cat%20vs%20dog%20app%20flutter/dog.jpeg" width="250" height="700"></div>
+ <div style="text-align:center"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%201/cat%20vs%20dog%20app%20flutter/dog.jpeg"></div>
 
 ### Day 2 (25-03-20) : Regularization
 - Worked on learning different techniques to handle overfitting of a model
