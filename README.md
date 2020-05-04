@@ -264,3 +264,12 @@ $ sudo docker-compose up
 - Studied the in-depth implementation of statistics on real life use case
 - Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2032/Statistics_Complete.ipynb">Link</a><br/>
 <div style="text-align=center"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2032/index.png"></div><br/>
+
+### Day 33 (25-04-20) : Bagging and Random Forest Algorithm
+- Studied the concept of bagging
+- Started the course of Ensemble Learning Models on AnalyticsVidhya
+- Learned the concept of Random Forest: <a href="https://victorzhou.com/blog/intro-to-random-forests/">Link</a>
+- Revised the concept of Gini Impurity: <a href="https://victorzhou.com/blog/gini-impurity/">Link</a>
+- Model: <a href="">Link</a><br/>
+<div style="text-align=center;"><img src=""></div>
+<br/>
