@@ -273,6 +273,7 @@ $ sudo docker-compose up
 - Model: <a href="">Link</a><br/>
 <div style="text-align=center;"><img src=""></div>
 <br/>
+
 ### Day 34 (26-04-20) : XGBoost
 - Studied the concept of boosting
 - Implemented XGBoost Classifier using Python
