@@ -242,6 +242,7 @@ $ sudo docker-compose up
 - Studied the concept of decision tree classification
 - Studied the CART, C4.5 and ID3 algorithms
 - Solved Mathematics behind Gini Index, Information Gain, and Entropy
+- Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2029/Decision_Tree_From_Scratch.ipynb">Link</a><br/>
 
 ### Day 30 (22-04-20) : Basic Classification Revised
 - Studied the concept of binary classification
