@@ -273,3 +273,10 @@ $ sudo docker-compose up
 - Model: <a href="">Link</a><br/>
 <div style="text-align=center;"><img src=""></div>
 <br/>
+### Day 34 (26-04-20) : XGBoost
+- Studied the concept of boosting
+- Implemented XGBoost Classifier using Python
+- Studied Feature Importance
+- Finished the course on Ensemble Learning on AnalyticsVidhya
+- Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2034/XGBoost_Demo.ipynb">Link</a><br/>
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2034/xg.png"></div><br/>
