@@ -282,3 +282,11 @@ $ sudo docker-compose up
 - Finished the course on Ensemble Learning on AnalyticsVidhya
 - Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2034/XGBoost_Demo.ipynb">Link</a><br/>
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2034/xg.png"></div><br/>
+
+### Day 35 (27-04-20) : TedX Dataset Analysis
+- Studied the Udacity Data Scientist Nanodegree Program
+- Worked on assignment of TedX Talk Dataset using basic pandas
+- Data Exploration and insights on analysis
+- Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2035/tutorial.ipynb"><br/>
+ 
+<div style="text-align-center"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2035/tedx.jpg" height="500" width="500"></div><br/>
