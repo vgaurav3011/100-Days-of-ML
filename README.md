@@ -300,4 +300,4 @@ $ sudo docker-compose up
 - Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2036/Model_Final.ipynb">Link</a><br/>
 - Blog on Medium: <a href="https://medium.com/@vgaurav3011/credit-card-fraud-detection-you-have-to-be-odd-to-be-number-1-e158ceaf62f2">Link</a>
 
-<div style="text-align:center"><img src=""></div><br/>
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2036/credit-card.jpg"></div><br/>
