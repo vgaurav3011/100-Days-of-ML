@@ -287,6 +287,17 @@ $ sudo docker-compose up
 - Studied the Udacity Data Scientist Nanodegree Program
 - Worked on assignment of TedX Talk Dataset using basic pandas
 - Data Exploration and insights on analysis
-- Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2035/tutorial.ipynb"><br/>
+- Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2035/tutorial.ipynb">Link</a><br/>
  
 <div style="text-align-center"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2035/tedx.jpg" height="500" width="500"></div><br/>
+
+### Day 36 (28-04-20) : Assignment-1 Udacity Data Scientist Program
+
+- Studied the basics of Crisp DM Approach
+- Studied Software Engineering
+- Read about code modularity
+- Finished working on Credit Card Fraud Detection with Crisp DM Approach
+- Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2036/Model_Final.ipynb">Link</a><br/>
+- Blog on Medium: <a href="https://medium.com/@vgaurav3011/credit-card-fraud-detection-you-have-to-be-odd-to-be-number-1-e158ceaf62f2">Link</a>
+
+<div style="text-align:center"><img src=""></div><br/>
