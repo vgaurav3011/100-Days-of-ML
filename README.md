@@ -301,3 +301,18 @@ $ sudo docker-compose up
 - Blog on Medium: <a href="https://medium.com/@vgaurav3011/credit-card-fraud-detection-you-have-to-be-odd-to-be-number-1-e158ceaf62f2">Link</a>
 
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2036/credit-card.jpg"></div><br/>
+
+
+### Day 37 (29-04-20) : Support Vector Machines Intutive Understanding
+
+- Studied the basics of decision boundaries
+- Studied concept of Maximal Margin Classifier
+- Studied the concepts of differentiating between SVM and Logistic Regression
+- Studied Hyperparameter Tuning of SVM with C and gamma values
+- Studied the influence of outliers and feature scaling on SVM
+- Implemented a basic SVM model on Iris Data
+- Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2037/SVM_Concepts.ipynb">Link</a><br/>
+
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2037/large_margin.jpeg"></div><br/>
+
+
