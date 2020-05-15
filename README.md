@@ -315,4 +315,11 @@ $ sudo docker-compose up
 
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2037/large_margin.jpeg"></div><br/>
 
+### Day 38 (30-04-20) : Support Vector Machines Regression
 
+- Studied the concept of fitting maximum points on the decision boundary
+- Studied concept of decision functions
+- Studied convex constraint optimizations
+- Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2038/SVM_Regression.ipynb">Link</a><br/>
+
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2038/sv.png"></div><br/>
