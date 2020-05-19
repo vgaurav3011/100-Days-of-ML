@@ -323,3 +323,51 @@ $ sudo docker-compose up
 - Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2038/SVM_Regression.ipynb">Link</a><br/>
 
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2038/sv.png"></div><br/>
+
+### Day 39 (01-05-20) : SQL for Data Science
+
+- Studied the concepts of entity relationships and introduction to databases
+- Started the course by UC Davis for SQL for Data Science Specialization
+- Studied the differences between NoSQL and SQL
+- Introduction to Data Modelling
+
+### Day 40 (02-05-20) : SQL for Data Science
+
+- Studied the idea of data pipelines
+- Studied the basics of filtering datasets using SQL
+- Studied Aggregation using MIN(), MAX(), SUM() and AVG()
+- Continued with the Week 1 of SQL for Data Science Specialization by UC Davis
+
+### Day 41 (03-05-20) : SQL for Data Science
+
+- Studied the fundamentals of Data Modelling and Entity Relationship Diagrams
+- Draw Entity Relationship Diagrams for multiple databases to practice
+- Studied the ChinookDatabase ER Diagram
+- Started learning queries on databases
+
+### Day 42 (04-05-20) : SQL for Data Science
+
+- Studied the idea of wildcards in SQL using %
+- Intuitively understood math operations in SQL
+- Completed Week 1 of SQL for Data Science by UC Davis and started Week 2
+
+### Day 43 (05-05-20) : SQL for Data Science
+
+- Studied the idea behind group-by
+- Identified similarities and differences between group by in pandas and SQL
+- Worked on implementing Group By command on Chinook Database
+- Completed Week 2 of the SQL course by UC Davis
+
+### Day 44 (06-05-20) : SQL for Data Science
+
+- Studied the idea of subqueries
+- Learned to evaluate nested queries
+- Started writing complex queries in SQL
+- Started Week 3 of SQL course by UC Davis
+
+### Day 45 (07-05-20) : SQL for Data Science
+
+- Studied the fundamentals of Data Modelling and Entity Relationship Diagrams
+- Intuitively understood the concept of merging datasets
+- Learned different varieties of JOINS in SQL
+- Finished Week 3 of SQL Course by UC Davis
