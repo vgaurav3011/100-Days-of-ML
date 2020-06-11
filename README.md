@@ -371,3 +371,27 @@ $ sudo docker-compose up
 - Intuitively understood the concept of merging datasets
 - Learned different varieties of JOINS in SQL
 - Finished Week 3 of SQL Course by UC Davis
+
+### Day 46 (08-05-20) : SQL for Data Science
+
+- Finished the course on SQL for Data Science by UC Davis
+- Practiced SQL problems on HackerRank
+
+### Day 47 (09-05-20) : SQL for Data Science
+
+- Earned a gold star for SQL on HackerRank
+- Started practicing a few selected problems on LeetCode
+- Learned about Dense_Rank() and Substr()
+
+### Day 48 (10-05-20) : SQL for Data Science
+
+- Completed the Easy Set of SQL Practice Problems on LeetCode
+- Learned about CONCAT, DATETIME, and a few advanced SQL commands
+- Practiced a few set of interview questions on SQL
+
+### Day 49 (11-05-20) : Graph Databases for Data Science
+
+- Studied the fundamentals of Graph DB
+- Started the Neo4js course to understand Graph DB
+- Studied the architecture of working for GraphDBs
+
