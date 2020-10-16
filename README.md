@@ -751,11 +751,185 @@ Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%20
 
 Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2074/Model_2.ipynb">Link</a>
 
-### Day 75: Statistics Complete Guide
+### Day 75: Final Submission Agriculture Prediction
 
-- Started working on statistics complete guide for beginners.
-- Will be completing a detailed readme for the same
-- Seaborn Tutorial Creation
+- Finished EDA
+- PrvLB 22 Model for Agriculture Prediction
+
+![alt-text](https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2075/correlation.png)
 
 Model: <a href="https://github.com/vgaurav3011/Statistics-for-Machine-Learning/blob/master/notebooks/004-Visualization-Seaborn.ipynb">Link</a>
 
+![alt-text](https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2075/correlation.png)
+
+### Day 76: Sorting Visualization
+
+- Finished working on Matplotlib Tutorial
+- Wrote an interesting python code for animated sorting visualizations
+
+Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2076/sort.py">Link</a>
+
+![alt-text](https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2076/merge.gif)
+
+### Day 77: AIEngineering Time Series
+
+- Finished the AI Engineering Playlist on Time Series.
+- Made notes for each video
+- Will be revising it again.
+- There are multiple notebooks, check the repository for them.
+
+![alt-text](https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2077/final_AITime.png)
+
+### Day 78: Big Market Sales Analysis-1
+
+- Started working on making applied ML notebooks on Analyticsvidhya
+- Finished a baseline regression model for Big Market Sales data
+- Learned feature aggregation
+
+Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2078/005-Regression.ipynb">Link</a>
+
+
+![alt-text](https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2078/images/Item%20Outlet%20Sales/Outlet_Type.png)
+
+### Day 79: Big Market Sales Analysis-2
+
+- Worked on Exploratory Data Analysis for Big Market Sales Data
+- Created a notebook with detailed explanations for each characteristic with visuals.
+
+Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2079/Exploratory-Data-Analysis.ipynb">Link</a>
+
+![alt-text](https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2078/images/Item%20MRP/Visibility.png)
+
+### Day 80: Big Market Sales Analysis-3
+
+- Final Insights to the model
+- Simple Regression techniques experimented
+- Feature Engineering on the data
+
+Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2080/Model-3.ipynb">Link</a>
+
+![alt-text](https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2078/images/Item%20Type/Weight.png)
+
+### Day 81: Loan Prediction Analysis-1
+
+- Started the basic classification problem of loan prediction on Analyticsvidhya
+- Finished a baseline model for the same
+
+Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2081/Model.ipynb">Link</a>
+
+![alt-text](https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2081/feature-importance.png?raw=true)
+
+### Day 82: Loan Prediction Analysis-2
+
+- Finished EDA on Loan Prediction data.
+- Crafted a well explained notebook for the same.
+
+Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2082/Exploratory-Data-Analysis.ipynb">Link</a>
+
+![alt-text](https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2082/final.png)
+
+### Day 83: Loan Prediction Analysis-3
+
+- Finished a simple model well explained with basic classification
+- Crafted a well explained notebook for the same.
+
+Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2083/Model-Final.ipynb">Link</a>
+
+### Day 84: Bike Prediction Analysis-1
+
+- Started working on neural network for classification.
+- Made a detailed notebook for bike price prediction.
+- Made a streamlit app for EDA
+
+Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2084/model.ipynb">Link</a>
+
+![alt-text](https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2084/dashboard.gif)
+
+### Day 85: Bike Prediction Analysis-2
+
+- Deployed model as a streamlit app for prediction
+- Completed End-to-End Machine Learning Project
+- Detailed repository below
+
+Model: <a href="https://github.com/vgaurav3011/Bike-Sharing-Demand-Analysis">Link</a>
+
+![alt-text](https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2084/visual.gif)
+
+### Day 86: Car Value Prediction-1
+
+- Started working on categorical data ideas.
+- Learning end to end deployment for the same 
+- Finished an app for deployment.
+
+![alt-text](https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2086/assets/dashboard.gif)
+
+### Day 87: Car Prediction-2
+
+- Final Modelling of Car Value Data
+- Final Deployment as Heroku App
+- Finished end to end machine learning project with streamlit and Heroku.
+
+Heroku Web App Link: <a href="https://aqueous-falls-45593.herokuapp.com/">Link</a>
+
+![alt-text](https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2086/assets/car_eval.gif)
+
+### Day 88: Cross Selling Prediction-1
+
+- Participated in the Janatahack Cross Sell 
+- Baseline Model came at rank 81
+- Made a complete evaluative model to predict cross selling prices
+
+Model Link: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2088/Baseline_Model.ipynb">Link</a>
+
+![alt-text](https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2089/target.png)
+
+
+### Day 89: Cross Selling Prediction-2
+
+- Finished at Public LB rank 42
+- Exploratory Analysis Completed
+- Well explained notebook made with love in Python
+
+Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2089/Exploratory_Data_Analysis.ipynb">Link</a>
+
+
+![alt-text](https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2089/premium.png)
+
+### Day 90: Cross-Sell Prediction-3
+
+- Final Model for Janatahack
+- Feature Engineering
+- Private Leaderboard Rank-10
+
+Models: <a href="https://github.com/vgaurav3011/100-Days-of-ML/tree/master/Day%2090">Link</a>
+
+### Day 91: Bank Upsell Prediction-1
+
+- Participated in Hacklive Jantahack Analyticsvidhya
+- Identified major parameters and feature engineering
+- Worked on EDA and baseline
+
+Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2091/Initial.ipynb">Link</a>
+
+### Day 92: Bank Upsell Prediction-2
+
+- Finished at LB 42 again
+- Final Modelling and feature engineering
+
+Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/tree/master/Day%2092">Link</a>
+
+### Day 93: Youtube Statistical Analysis-1
+
+- Prediction of number of likes on videos given statistics
+- Worked on the regression concepts
+- Finished a baseline model at PB Rank 7
+
+Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2093/Model.ipynb">Link</a>
+
+### Day 94: Youtube Statistical Analysis-2
+
+- Finished at PB Rank 10, a major improvement in ranks
+- Worked on feature engineering
+- Tuning of Model using LGBM could have been better
+
+Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2094/Final_Model_HackLive2.ipynb">Link</a>
