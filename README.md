@@ -2,7 +2,7 @@
 
 The aim is to comprehensively revise essential statistics, machine learning algorithms, state of art models and learn to develop end-to-end products using machine learning and deep learning 
 
-### Day 1 (24-03-20) : Binary Classification
+### Day 1 : Binary Classification
 - Studied Classification and various approaches to achieve enhanced results 
 - Implemented a basic network for Binary Classification using Tensorflow
 - Learnt to compress Tensorflow Models to TfLite Model for Binary Classification on Dogs vs Cats Dataset
@@ -11,7 +11,7 @@ The aim is to comprehensively revise essential statistics, machine learning algo
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%201/cat%20vs%20dog%20app%20flutter/cat.jpeg" width="250" height="700"></div>
  <div style="text-align:center"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%201/cat%20vs%20dog%20app%20flutter/dog.jpeg" width="250" height="700"></div>
 
-### Day 2 (25-03-20) : Regularization
+### Day 2  : Regularization
 - Worked on learning different techniques to handle overfitting of a model
 - Studied L1, L2 regularization and dropout regularization from Andrew NG deeplearning.ai course
 - Completed the assignment on regularization in Week 1 of the course
@@ -19,7 +19,7 @@ The aim is to comprehensively revise essential statistics, machine learning algo
 - Studied Tensorflow implementation of Dropout from Lei Mao's Blog: <a href="https://leimao.github.io/blog/Dropout-Explained/">Link</a>
 - Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%202/Regularization.ipynb">Link</a><br/>
 
-### Day 3 (26-03-20) : Generative Adversarial Networks
+### Day 3 : Generative Adversarial Networks
 - Studied basics of Generative Adversarial Networks (GANs) and their applications
 - Worked on implementing a simple DCGAN to reconstruct MNIST images
 - Will be working on studying GANs in depth
@@ -28,7 +28,7 @@ The aim is to comprehensively revise essential statistics, machine learning algo
 
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/images/dcgan.gif"></div><br/>
 
-### Day 4 (27-03-20) : Neural Style Transfer
+### Day 4  : Neural Style Transfer
 - Studied the concepts of convolution neural networks and their working process
 - Implemented a simple style transfer network using pretrained weights and VGG-16 
 - Studied the concept of loss function and hyperparameter tuning from Andrew NG course
@@ -37,7 +37,7 @@ The aim is to comprehensively revise essential statistics, machine learning algo
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/images/2.jpg" width="200" height="200"></div>
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/images/download.png" width="200" height="200"></div><br/>
 
-### Day 5 (28-03-20) : Supervised Learning: Regression
+### Day 5  : Supervised Learning: Regression
 - Studied the concepts of Regression and Classification from Introduction to Machine Learning by Udacity (GaTech)
 - Implemented feature engineering, preprocessing and scaling on Black Friday Data in dataset-1 folder 
 - Studied ElasticNet, Lasso, Ridge, Linear, AdaBoost, Random Forest Regression, Gradient Boosting and applied the same on the dataset
@@ -46,14 +46,14 @@ The aim is to comprehensively revise essential statistics, machine learning algo
 - Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%205/Black-Friday.ipynb">Link</a><br/>
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/images/output_flask.gif"></div><br/>
 
-### Day 6 (29-03-20) : Supervised Learning: Linear Regression and Gradient Descent
+### Day 6  : Supervised Learning: Linear Regression and Gradient Descent
 - Studied the concept of Linear Regression in depth from multiple blogs
 - Read the Stanford UFDL notes on Gradient Descent and Stochastic Gradient Descent at <a href="http://ufldl.stanford.edu/tutorial/supervised/OptimizationStochasticGradientDescent/">Link</a> <br/>
 - Completed implementation of Gradient Descent with Linear Regression from scratch using only mathematics through Numpy in Python.
 - Studied the background mathematics of Gradient Descent and Regression
 - Model:<a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%206/linear_model.py">Link</a><br/>
 
-### Day 7 (30-03-20) : Optimization Algorithms and Hyperparameter Tuning
+### Day 7  : Optimization Algorithms and Hyperparameter Tuning
 - Studied and implemented the concept of Mini Batch Gradient Descent
 - Implemented the concept of gradient checking and how it boosts training time
 - Studied the use of exponential weighted averages and use of momentum to speed up training processes
@@ -933,3 +933,13 @@ Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%20
 - Tuning of Model using LGBM could have been better
 
 Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%2094/Final_Model_HackLive2.ipynb">Link</a>
+
+### Day 96: R-Programming for Statistics and Data Science
+
+- Finished the 6.5 hours course on Udemy on R-Programming
+- Learned Hypothesis Testing in R and basic linear regression techniques in R
+- Made notes on Data Visualisation strategies in R and learned ggplot2
+- Learned data cleaning using dplyr, tidyverse and tidyr
+- Finished reading the O-Reilly book on R-programming
+
+![alt-text](https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2096/UC-f14f6177-1ab4-422a-a74b-e9225add08e9.jpg)
