@@ -62,7 +62,7 @@ The aim is to comprehensively revise essential statistics, machine learning algo
 - Models Folder: <a href="https://github.com/vgaurav3011/100-Days-of-ML/tree/master/Day%207">Link</a><br/>
 <div style="text-align:center;"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/images/certy-1.png" width="700" height="400"></div><br/>
 
-### Day 8 (31-03-20) : Structuring Machine Learning Projects and Basics of Tensorflow
+### Day 8  : Structuring Machine Learning Projects and Basics of Tensorflow
 - Studied the fine tuning of networks
 - Studied train/dev/test set distribution techniques
 - Studied sampling techniques and finished the third course of Andrew NG
@@ -70,7 +70,7 @@ The aim is to comprehensively revise essential statistics, machine learning algo
 - Studied the blog on real time deployment of models at FloydHub: <a href="https://blog.floydhub.com/structuring-and-planning-your-machine-learning-project/">Link</a> <br/>
 <img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/images/certy-2.png" width="700" height="400"><br/> <br/>
 
-### Day 9 (01-04-20) : UNet for Biomedical Image Segmentation
+### Day 9  : UNet for Biomedical Image Segmentation
 - Studied the UNet Architecture from the state of art paper: <a href="https://arxiv.org/pdf/1505.04597.pdf">Link</a>
 - Studied the concepts of upsampling, encoder-decoder architecture integration into UNet
 - Read and made notes of the blog by Ayyuce Kizrak: <a href="https://heartbeat.fritz.ai/deep-learning-for-image-segmentation-u-net-architecture-ff17f6e4c1cf">Link</a>
@@ -82,7 +82,7 @@ The aim is to comprehensively revise essential statistics, machine learning algo
 
 <div style="text-align:center"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%209/input.png"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%209/output.png"></div><br/></div><br/>
 
-### Day 10 (02-04-20) : Basics of RNN and LSTM
+### Day 10  : Basics of RNN and LSTM
 - Studied the idea of Gated Recurrent Units (GRU)
 - Studied RNN and LSTM
 - Started the Sequence Models Course by Andrew NG<br/>
@@ -90,7 +90,7 @@ The aim is to comprehensively revise essential statistics, machine learning algo
 - Watched MIT Deep Learning Lab Video on LSTM<br/>
 - Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Music_Generator.ipynb">Link</a><br/>
 
-### Day 11 (03-04-20) : Autoencoders
+### Day 11  : Autoencoders
 - Studied the concept of Encoder and Decoder architectures
 - Studied the basics of Autoencoders
 - Implemented a Simple Autoencoder on MNIST data using Tensorflow
@@ -100,7 +100,7 @@ The aim is to comprehensively revise essential statistics, machine learning algo
 <div style="text-align=center"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2011/download.png" width="800" height="500"></div><br/>
 <div style="text-align=center"><img src="https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2011/download%20(1).png" width="500" height="500"></div><br/>
 
-### Day 12 (04-04-20) : Variational Autoencoder
+### Day 12  : Variational Autoencoder
 - Studied the idea of introducing variations in the autoencoding architecture
 - Studied the concepts of VAE: <a href="https://wiseodd.github.io/techblog/2016/12/10/variational-autoencoder/">Link</a>
 - Finished the Week 3 of the CNN Course by Andrew NG
@@ -943,3 +943,18 @@ Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%20
 - Finished reading the O-Reilly book on R-programming
 
 ![alt-text](https://raw.githubusercontent.com/vgaurav3011/100-Days-of-ML/master/Day%2096/UC-f14f6177-1ab4-422a-a74b-e9225add08e9.jpg)
+
+### Day 97: Advanced R Analtytics
+
+- Finished the 7 hour course on Udemy on Advanced R Analytics by Kirill Eremenko
+- Completed mastering R programming language, now officially part of my resume
+- Read the book on R programming with exercises by O-Reilly
+
+![alt-text](https://udemy-certificate.s3.amazonaws.com/image/UC-6c2f0f78-2d22-4baa-8786-e1ee5abe979b.jpg?v=1611771038000)
+
+### Day 98: Statistics for Business Analytics Reviser
+
+- Finished the course on Statistics using Microsoft Excel
+- Mastered learning MS Excel for carrying out business analytics
+
+![alt-text](https://udemy-certificate.s3.amazonaws.com/image/UC-26557b3f-57c6-4840-9288-d1cf490d443a.jpg?v=1612286744000)
