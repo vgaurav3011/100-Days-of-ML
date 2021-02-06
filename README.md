@@ -958,3 +958,18 @@ Model: <a href="https://github.com/vgaurav3011/100-Days-of-ML/blob/master/Day%20
 - Mastered learning MS Excel for carrying out business analytics
 
 ![alt-text](https://udemy-certificate.s3.amazonaws.com/image/UC-26557b3f-57c6-4840-9288-d1cf490d443a.jpg?v=1612286744000)
+
+### Day 99: Started Reading Data Engineering Notes
+
+- Following the latest notes for data engineering from CS-329
+- Finished 4 courses on System Design Generation, ETL and Inventory Management System Analysis
+- Understood the process flow of purchase process, asset management in ERPs and business understanding of ETL in databases
+- Will be started to work on new projects related to data engineering
+
+### Day 100: The Final Destination
+
+- Happy to inform that my publication on the Smart India Hackathon winning project was accepted and published in the International Conference on Sentiment Analysis and Deep Learning 2020
+- The published thesis is titled: RainRoof: Automated Shared Rainwater Harvesting Prediction which is an end-to-end implementation of predicting the feasibility of rainwater harvesting in an area from the suitability of the system setup using deep learning analysis on the satellite images to the forecasting of break even demand for the area if they decide to adopt the harvesting technique
+- Link: [Click Here](https://link.springer.com/chapter/10.1007/978-981-15-8677-4_9)
+
+![alt-text](https://media.springernature.com/w306/springer-static/cover-hires/book/978-981-15-8677-4)
