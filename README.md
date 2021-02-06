@@ -1,6 +1,6 @@
 # 100-Days-of-ML
 
-The aim is to comprehensively revise essential statistics, machine learning algorithms, state of art models and learn to develop end-to-end products using machine learning and deep learning 
+The aim is to comprehensively revise essential statistics with emphasis on business analytics and applications, complete significant courses, learn R programming language, revisit machine learning algorithms, state of the art models and learn to develop end-to-end products using machine learning and deep learning 
 
 ### Day 1 : Binary Classification
 - Studied Classification and various approaches to achieve enhanced results 
